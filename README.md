@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, I'm Zheng Zhi, an undergraduate student currently studying in Shanghai Jiao Tong University.
+I've been hoping to share things of interest.
+My email: zzheng0122@sjtu.edu.cn
